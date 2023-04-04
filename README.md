@@ -9,8 +9,7 @@
    - Use otu_ids as the labels for the bar chart.
 
    - Use otu_labels as the hovertext for the chart.
-
-![](file:///C:/Users/14159/Desktop/DataBootCamp/Challenge14_js/HW14/Starter_Code/Images/hw01.png)
+![hw01](https://user-images.githubusercontent.com/32376453/229915679-7a1be0a6-e2ed-47e7-b828-439e3a1a319a.png)
 
 3. Create a bubble chart that displays each sample.
 
